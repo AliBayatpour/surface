@@ -1,0 +1,3 @@
+[submodule "src/assets/submarine"]
+	path = src/assets/submarine
+	url = https://github.com/AliBayatpour/submarine.git
